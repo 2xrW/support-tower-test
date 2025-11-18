@@ -1,1 +1,0 @@
-# support-tower-test
